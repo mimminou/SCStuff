@@ -58,77 +58,56 @@ func init() {
 
 func GetShips() {
 	file := "file://" + cwd + "/ships.html"
-	var names []string
-	var manufacturers []string
-	var prices []string
-	var roles []string
-	var careers []string
-	var crewSizes []string
-	var cargoGrids []string
-	var qtTanks []string
 
 	collector.OnHTML("tbody", func(h *colly.HTMLElement) {
 		rows := h.DOM.Find("tr")
-		//get names
-		rows.Find(".cdk-column-name").Each(func(i int, s *goquery.Selection) {
-			names = append(names, s.Text())
-		})
+		rows.Each(func(i int, s *goquery.Selection) {
+			currShip := ship{}
 
-		//get manufacturers
-		rows.Find(".cdk-column-manufacturer").Each(func(i int, s *goquery.Selection) {
-			manufacturers = append(manufacturers, s.Text())
-		})
+			//get names
+			name := s.Find(".cdk-column-name")
+			currShip.name = name.Text()
 
-		//get prices
-		rows.Find(".cdk-column-basePrice").Each(func(i int, s *goquery.Selection) {
-			priceDiv := s.Find(".text-primary")
-			if priceDiv.Length() > 0 {
-				prices = append(prices, priceDiv.Text())
+			//get manufacturers
+			manufacturer := s.Find(".cdk-column-manufacturer")
+			currShip.manufacturer = manufacturer.Text()
+
+			//get prices
+			basePriceDiv := s.Find(".cdk-column-basePrice")
+			priceDiv := basePriceDiv.Find(".text-primary")
+			if basePriceDiv.Length() > 0 {
+				currShip.basePrice = priceDiv.Text()
 
 			} else {
-				prices = append(prices, "")
+				currShip.basePrice = ""
 			}
+
+			//get roles
+			role := s.Find(".cdk-column-role")
+			currShip.role = role.Text()
+
+			//get careers
+			career := s.Find(".cdk-column-career")
+			currShip.career = career.Text()
+
+			//get crewSizes
+			crewSize := s.Find(".cdk-column-crewSize")
+			currShip.crewSize = crewSize.Text()
+
+			//get cargoGrids
+			cargoGrid := s.Find(".cdk-column-cargo")
+			currShip.cargoGrid = cargoGrid.Text()
+
+			//get qtTanks
+			qtTank := s.Find(".cdk-column-qtFuelCapacity")
+			currShip.qtFuel = qtTank.Text()
+
+			ships = append(ships, currShip)
 		})
 
-		//get roles
-		rows.Find(".cdk-column-role").Each(func(i int, s *goquery.Selection) {
-			roles = append(roles, s.Text())
-		})
-
-		//get careers
-		rows.Find(".cdk-column-career").Each(func(i int, s *goquery.Selection) {
-			careers = append(careers, s.Text())
-		})
-
-		//get crewSizes
-		rows.Find(".cdk-column-crewSize").Each(func(i int, s *goquery.Selection) {
-			crewSizes = append(crewSizes, s.Text())
-		})
-
-		//get cargoGrids
-		rows.Find(".cdk-column-cargo").Each(func(i int, s *goquery.Selection) {
-			cargoGrids = append(cargoGrids, s.Text())
-		})
-
-		//get qtTanks
-		rows.Find(".cdk-column-qtFuelCapacity").Each(func(i int, s *goquery.Selection) {
-			qtTanks = append(qtTanks, s.Text())
-		})
-
-		for i := range names {
-			ships = append(ships, ship{purchasableItem: purchasableItem{name: names[i],
-				manufacturer: manufacturers[i],
-				basePrice:    prices[i]},
-				role:      roles[i],
-				career:    careers[i],
-				cargoGrid: cargoGrids[i],
-				crewSize:  crewSizes[i],
-			})
-		}
-
-		//write the ships struct to CSV instead of printing
+		//TODO : Need to write the ships struct to CSV instead of printing
 		for _, s := range ships {
-			fmt.Println(s.name + " | " + s.manufacturer + " | " + s.career + " | " + s.role)
+			fmt.Println(s.name + " | " + s.manufacturer + " | " + s.career + " | " + s.role + " | " + s.crewSize + " | " + s.cargoGrid + " | " + s.qtFuel + " | " + s.basePrice)
 		}
 	})
 
