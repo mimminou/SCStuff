@@ -1,9 +1,9 @@
 package main
 
 import (
-	"fmt"
+	web "github.com/mimminou/SCItems/core/web"
 )
 
 func main() {
-	fmt.Println("hello")
+	web.GetShips()
 }
