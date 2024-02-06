@@ -25,24 +25,42 @@ type shipGun struct {
 }
 
 type qd struct {
-	maxSpeedC   string
+	spoolUpTime string
 	maxSpeedKms string
 	class       string
+	grade       string
 	size        string
 	purchasableItem
 }
 
 type shield struct {
 	class string
+	grade string
 	size  string
 	purchasableItem
-	hp           string
-	rechargeRate string
+	hp        string
+	regenRate string
+}
+
+type powerplant struct {
+	class string
+	grade string
+	size  string
+	purchasableItem
+	power           string
+	drawRequestTime string
 }
 
 type cooler struct {
 	class string
 	size  string
+	grade string
 	purchasableItem
-	coolingCapacity string
+	coolingRate string
+}
+
+type shop struct {
+	name     string
+	location string
+	catalog  []purchasableItem
 }
