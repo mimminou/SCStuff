@@ -58,9 +58,3 @@ type cooler struct {
 	purchasableItem
 	coolingRate string
 }
-
-type shop struct {
-	name     string
-	location string
-	catalog  []purchasableItem
-}
