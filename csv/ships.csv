@@ -1,0 +1,537 @@
+name,manufacturer,basePrice,role,career,crewSize,cargoGrid,qtFuel
+100i," Origin Jumpworks (ORIG) ",654 000,Starter / Pathfinder,Exploration,1,2,700
+125a," Origin Jumpworks (ORIG) ",791 000,Light Fighter,Combat,1,2,700
+135c," Origin Jumpworks (ORIG) ",839 000,Light Freight,Exploration,1,6,700
+300i," Origin Jumpworks (ORIG) ",767 200,Luxury,Exploration,1,8,680
+315p," Origin Jumpworks (ORIG) ",882 600,Pathfinder,Exploration,1,12,830
+325a," Origin Jumpworks (ORIG) ",944 200,Interceptor,Combat,1,4,583
+350r," Origin Jumpworks (ORIG) ",1 602 100,Racing,Competition,1,4,583
+400i," Origin Jumpworks (ORIG) ",6 352 700,Luxury,Exploration,3,42,4 920
+600i," Origin Jumpworks (ORIG) ",9 475 100,Luxury,Exploration,1,40,3 000
+600i Executive Edition," Origin Jumpworks (ORIG) ",,Luxury,Exploration,1,44,3 000
+600i Touring," Origin Jumpworks (ORIG) ",9 894 000,Luxury,Exploration,1,16,3 000
+85X Limited," Origin Jumpworks (ORIG) ",574 500,Luxury,Exploration,1,,625
+890 Jump," Origin Jumpworks (ORIG) ",32 294 500,Luxury,Exploration,1,100,25 000
+A1 Spirit," Crusader Industries (CRUS) ",,Bomber,Combat,2,,3 750
+A2 Hercules Starlifter," Crusader Industries (CRUS) ",5 525 000,Bomber,Combat,8,216,88 000
+Ares Star Fighter Inferno," Crusader Industries (CRUS) ",2 859 000,Heavy Fighter,Combat,1,,5 000
+Ares Star Fighter Ion," Crusader Industries (CRUS) ",2 859 000,Heavy Fighter,Combat,1,,5 000
+Arrow," Anvil Aerospace (ANVL) ",972 300,Light Fighter,Combat,1,,583
+Aurora CL," Roberts Space Industries (RSI) ",487 600,Light Freight,Transporter,1,6,583
+Aurora ES," Roberts Space Industries (RSI) ",124 100,Starter / Pathfinder,Multi-Role,1,,583
+Aurora LN," Roberts Space Industries (RSI) ",338 400,Light Fighter,Combat,1,,583
+Aurora LX," Roberts Space Industries (RSI) ",245 500,Pathfinder,Exploration,1,,700
+Aurora MR," Roberts Space Industries (RSI) ",184 900,Light Fighter,Combat,1,,583
+Avenger Stalker," Aegis Dynamics (AEGS) ",882 200,Interceptor,Combat,1,,583
+Avenger Titan," Aegis Dynamics (AEGS) ",785 600,Courier,Transporter,1,8,583
+Avenger Titan Renegade," Aegis Dynamics (AEGS) ",1 076 600,Courier,Transporter,1,8,583
+Avenger Warlock," Aegis Dynamics (AEGS) ",1 155 500,Interceptor,Combat,1,,583
+Ballista," Anvil Aerospace (ANVL) ",364 500,Ground,Ground,2,,
+Ballista Dunestalker," Anvil Aerospace (ANVL) ",,Ground,Ground,2,,
+Ballista Snowblind," Anvil Aerospace (ANVL) ",,Ground,Ground,2,,
+Blade," Esperia (ESPR) ",3 370 600,Light Fighter,Combat,1,,583
+Buccaneer," Drake Interplanetary (DRAK) ",1 410 100,Light Fighter,Combat,1,,583
+C1 Spirit," Crusader Industries (CRUS) ",,Medium Freight,Transporter,2,,3 750
+C2 Hercules Starlifter," Crusader Industries (CRUS) ",4 925 500,Courier,Transporter,2,696,88 000
+C8 Pisces," Anvil Aerospace (ANVL) ",400 000,Pathfinder,Exploration,1,4,645
+C8R Pisces Rescue," Anvil Aerospace (ANVL) ",918 000,Medical,Support,1,,645
+C8X Pisces Expedition," Anvil Aerospace (ANVL) ",406 000,Pathfinder,Exploration,1,4,645
+Carrack," Anvil Aerospace (ANVL) ",26 657 500,Expedition,Exploration,6,456,44 000
+Carrack Expedition," Anvil Aerospace (ANVL) ",,Expedition,Exploration,6,456,44 000
+Caterpillar," Drake Interplanetary (DRAK) ",4 686 600,Medium Freight,Transporter,1,576,11 000
+Caterpillar Pirate," Drake Interplanetary (DRAK) ",,Medium Freight,Transporter,1,,11 000
+Centurion," Anvil Aerospace (ANVL) ",287 400,Ground,Ground,2,,
+Constellation Andromeda," Roberts Space Industries (RSI) ",3 548 000,Medium Freight / Gun Ship,Multi-Role,1,,3 000
+Constellation Aquila," Roberts Space Industries (RSI) ",4 926 700,Expedition,Exploration,1,,3 000
+Constellation Phoenix," Roberts Space Industries (RSI) ",5 658 800,Luxury,Multi-Role,1,,3 000
+Constellation Phoenix Emerald," Roberts Space Industries (RSI) ",,Luxury,Multi-Role,1,,3 000
+Constellation Taurus," Roberts Space Industries (RSI) ",3 256 400,Medium Freight,Transporter,1,174,3 000
+Corsair," Drake Interplanetary (DRAK) ",3 402 000,Expedition,Exploration,4,72,6 900
+Cutlass Black," Drake Interplanetary (DRAK) ",1 385 300,Medium Fighter / Medium Freight,Multi-Role,3,46,2 500
+Cutlass Blue," Drake Interplanetary (DRAK) ",2 493 500,Medium Fighter / Medium Freight,Multi-Role,3,12,2 500
+Cutlass Red," Drake Interplanetary (DRAK) ",1 810 500,Medical,Multi-Role,2,12,2 500
+Cutlass Steel," Drake Interplanetary (DRAK) ",1 355 300,Drop Ship,Combat,3,,2 500
+Cutter," Drake Interplanetary (DRAK) ",675 000,Starter,Starter,1,4,1 960
+Cutter Rambler," Drake Interplanetary (DRAK) ",,Exploration,Starter,1,2,2 940
+Cutter Scout," Drake Interplanetary (DRAK) ",,Scout,Starter,1,2,1 960
+Cyclone," Tumbril Land Systems (TMBL) ",26 500,Transporter,Ground,1,,
+Cyclone AA," Tumbril Land Systems (TMBL) ",26 500,Support,Ground,1,,
+Cyclone MT," Tumbril Land Systems (TMBL) ",26 500,Combat,Ground,1,,
+Cyclone RC," Tumbril Land Systems (TMBL) ",26 500,Racing,Ground,1,,
+Cyclone RN," Tumbril Land Systems (TMBL) ",26 500,Exploration,Ground,1,,
+Cyclone TR," Tumbril Land Systems (TMBL) ",26 500,Combat,Ground,1,,
+Defender," Banu (BANU) ",2 781 000,Light Fighter,Combat,1,,2 750
+Dragonfly," Drake Interplanetary (DRAK) ",272 700,Racing,Competition,1,,
+Dragonfly Star Kitten," Drake Interplanetary (DRAK) ",,Racing,Competition,1,,
+Dragonfly Yellowjacket," Drake Interplanetary (DRAK) ",,Racing,Competition,1,,
+Eclipse," Aegis Dynamics (AEGS) ",3 490 000,Stealth Bomber,Combat,1,,1 167
+F7C Hornet," Anvil Aerospace (ANVL) ",1 492 700,Medium Fighter,Combat,1,,583
+F7C Hornet Wildfire," Anvil Aerospace (ANVL) ",2 246 100,Medium Fighter,Combat,1,,583
+F7C-M Hornet Heartseeker," Anvil Aerospace (ANVL) ",,Medium Fighter,Combat,1,,583
+F7C-M Super Hornet," Anvil Aerospace (ANVL) ",2 132 600,Medium Fighter,Combat,1,,583
+F7C-R Hornet Tracker," Anvil Aerospace (ANVL) ",1 832 100,Pathfinder,Exploration,1,,583
+F7C-S Hornet Ghost," Anvil Aerospace (ANVL) ",1 654 100,Stealth Fighter,Combat,1,,583
+F8C Lightning," Anvil Aerospace (ANVL) ",,Heavy Fighter,Combat,1,,2 500
+Freelancer," Musashi Industrial & Starflight Concern (MISC) ",1 697 600,Medium Freight,Transporter,1,66,2 500
+Freelancer DUR," Musashi Industrial & Starflight Concern (MISC) ",1 967 600,Expedition,Exploration,1,28,5 000
+Freelancer MAX," Musashi Industrial & Starflight Concern (MISC) ",2 181 500,Heavy Freight,Transporter,1,122,2 500
+Freelancer MIS," Musashi Industrial & Starflight Concern (MISC) ",2 537 800,Gunship,Combat,1,36,2 500
+Fury," Mirai (MRAI) ",,Snub Fighter,Combat,1,,
+Fury LX," Mirai (MRAI) ",,Racing,Competition,1,,
+Fury MX," Mirai (MRAI) ",,Snub Fighter,Combat,1,,
+Gladiator," Anvil Aerospace (ANVL) ",1 954 500,Bomber,Combat,1,,583
+Gladius," Aegis Dynamics (AEGS) ",1 169 900,Light Fighter,Combat,1,,583
+Gladius Pirate," Aegis Dynamics (AEGS) ",,Light Fighter,Combat,1,,583
+Gladius Valiant," Aegis Dynamics (AEGS) ",1 429 800,Light Fighter,Combat,1,,583
+Glaive," Esperia (ESPR) ",,Medium Fighter,Combat,1,,583
+Hammerhead," Aegis Dynamics (AEGS) ",12 459 900,Corvette,Combat,2,40,11 000
+Hawk," Anvil Aerospace (ANVL) ",1 284 400,Light Fighter,Combat,1,,583
+Herald," Drake Interplanetary (DRAK) ",1 181 100,Medium Data,Transporter,1,,583
+HoverQuad," Consolidated Outland (CNOU) ",88 000,Transport,Personal Transport,1,,
+Hull A," Musashi Industrial & Starflight Concern (MISC) ",1 375 500,Light Freight,Transporter,1,48,10 000
+Hull C," Musashi Industrial & Starflight Concern (MISC) ",,Heavy Freight,Transporter,1,4 608,76 000
+Hurricane," Anvil Aerospace (ANVL) ",1 218 300,Heavy Fighter,Combat,1,,583
+Khartu-al," Aopoa (XIAN) ",2 113 900,Light Fighter,Combat,1,,583
+Lynx," Roberts Space Industries (RSI) ",,Transporter,Ground,2,,
+M2 Hercules Starlifter," Crusader Industries (CRUS) ",5 225 300,Courier,Transporter,3,522,88 000
+M50 Interceptor," Origin Jumpworks (ORIG) ",1 193 800,Racing,Competition,1,,583
+Mantis," Roberts Space Industries (RSI) ",1 230 000,Interdiction,Combat,1,,1 000
+Mercury Star Runner," Crusader Industries (CRUS) ",4 912 500,Medium Freight,Transporter,1,114,9 740
+MOLE," Argo Astronautics (ARGO) ",5 130 500,Medium Mining,Industrial,5,96,2 759
+MOLE Carbon," Argo Astronautics (ARGO) ",,Medium Mining,Industrial,5,,2 759
+MOLE Talus," Argo Astronautics (ARGO) ",,Medium Mining,Industrial,5,,2 759
+MPUV Cargo," Argo Astronautics (ARGO) ",224 200,Light Freight,Transporter,1,2,
+MPUV Personnel," Argo Astronautics (ARGO) ",233 000,Passenger,Transporter,1,,
+Mule," Drake Interplanetary (DRAK) ",15 000,Ground,Ground,1,1,
+Mustang Alpha," Consolidated Outland (CNOU) ",251 400,Starter / Light Freight,Multi-Role,1,,583
+Mustang Beta," Consolidated Outland (CNOU) ",404 000,Pathfinder,Exploration,1,,700
+Mustang Delta," Consolidated Outland (CNOU) ",763 600,Light Fighter,Combat,1,,583
+Mustang Gamma," Consolidated Outland (CNOU) ",627 500,Racing,Competition,1,,583
+Mustang Omega," Consolidated Outland (CNOU) ",,Racing,Competition,1,,583
+Nomad," Consolidated Outland (CNOU) ",952 800,Light Freight,Transporter,1,24,771
+Nova," Tumbril Land Systems (TMBL) ",515 200,Heavy Tank,Ground Combat,1,,
+Nox," Aopoa (XIAN) ",349 200,Racing,Competition,1,,
+Nox Kue," Aopoa (XIAN) ",,Racing,Competition,1,,
+P-52 Merlin," Kruger Intergalatic (KRIG) ",135 500,Snub Fighter,Combat,1,,
+P-72 Archimedes," Kruger Intergalatic (KRIG) ",150 000,Racing,Competition,1,,
+P-72 Archimedes Emerald," Kruger Intergalatic (KRIG) ",,Racing,Competition,1,,
+Prospector," Musashi Industrial & Starflight Concern (MISC) ",2 061 000,Light Mining,Industrial,1,,583
+Prowler," Esperia (ESPR) ",4 248 200,Drop Ship,Combat,1,,2 500
+PTV," Greycat Industrial (GRIN) ",5 000,Ground,Ground,1,,
+RAFT," Argo Astronautics (ARGO) ",1 853 000,Light Freight,Industrial,2,96,27 585
+Razor," Mirai (MRAI) ",1 761 200,Racing,Competition,1,,583
+Razor EX," Mirai (MRAI) ",1 878 800,Stealth Fighter,Combat,1,,583
+Razor LX," Mirai (MRAI) ",1 823 800,Racing,Competition,1,,583
+Reclaimer," Aegis Dynamics (AEGS) ",15 126 400,Heavy Salvage,Industrial,1,180,11 000
+Redeemer," Aegis Dynamics (AEGS) ",8 675 500,Gunship,Combat,4,2,5 700
+Reliant Kore," Musashi Industrial & Starflight Concern (MISC) ",744 700,Starter / Light Freight,Multi-Role,1,6,583
+Reliant Mako," Musashi Industrial & Starflight Concern (MISC) ",780 000,Reporting,Multi-Role,1,,583
+Reliant Sen," Musashi Industrial & Starflight Concern (MISC) ",840 000,Light Science,Multi-Role,1,,583
+Reliant Tana," Musashi Industrial & Starflight Concern (MISC) ",870 000,Light Fighter,Multi-Role,1,1,583
+Retaliator," Aegis Dynamics (AEGS) ",4 031 700,Heavy Bomber,Combat,1,,2 500
+ROC," Greycat Industrial (GRIN) ",172 000,Light Mining,Ground,1,,
+ROC-DS," Greycat Industrial (GRIN) ",176 500,Light Mining,Ground,2,,
+Sabre," Aegis Dynamics (AEGS) ",2 183 300,Stealth Fighter,Combat,1,,583
+Sabre Comet," Aegis Dynamics (AEGS) ",2 354 100,Stealth Fighter,Combat,1,,583
+Sabre Raven," Aegis Dynamics (AEGS) ",,Interceptor,Combat,1,,583
+San'tok.yāi," Aopoa (XNAA) ",,Medium Fighter,Combat,1,,583
+Scorpius," Roberts Space Industries (RSI) ",2 879 700,Heavy Fighter,Combat,2,,583
+Scorpius Antares," Roberts Space Industries (RSI) ",,Heavy Fighter,Combat,2,,800
+Scythe," Vanduul (VNCL) ",,Medium Fighter,Combat,1,,583
+Spartan," Anvil Aerospace (ANVL) ",255 500,Ground,Ground,1,,
+SRV," Argo Astronautics (ARGO) ",,Light Salvage,Support,1,12,2 759
+Starfarer," Musashi Industrial & Starflight Concern (MISC) ",6 651 500,Heavy Refuelling,Support,1,295,11 000
+Starfarer Gemini," Musashi Industrial & Starflight Concern (MISC) ",6 191 500,Heavy Refuelling,Support,2,291,11 000
+Storm," Tumbril Land Systems (TMBL) ",,Light Tank,Ground Combat,1,,
+Storm AA," Tumbril Land Systems (TMBL) ",,Light Tank,Ground Combat,1,,
+STV," Greycat Industrial (GRIN) ",12 000,Ground,Ground,2,,
+Syulen," Gatac Manufacture (GAMA) ",,Starter,Starter,1,,2 900
+Talon," Esperia (ESPR) ",1 854 500,Fighter,Combat,1,,583
+Talon Shrike," Esperia (ESPR) ",2 259 200,Fighter,Combat,1,,583
+Terrapin," Anvil Aerospace (ANVL) ",2 568 100,Pathfinder,Support,1,,950
+Ursa," Roberts Space Industries (RSI) ",66 300,Ground,Ground,2,,
+Ursa Fortuna," Roberts Space Industries (RSI) ",,Ground,Ground,2,,
+Valkyrie," Anvil Aerospace (ANVL) ",4 454 400,Drop Ship,Combat,1,30,2 500
+Vanguard Harbinger," Aegis Dynamics (AEGS) ",2 050 500,Heavy Fighter,Combat,1,,2 500
+Vanguard Hoplite," Aegis Dynamics (AEGS) ",3 104 200,Drop Ship,Combat,1,,2 500
+Vanguard Sentinel," Aegis Dynamics (AEGS) ",2 012 000,Heavy Fighter,Combat,1,,2 500
+Vanguard Warden," Aegis Dynamics (AEGS) ",3 387 800,Heavy Fighter,Combat,1,,2 500
+Vulture," Drake Interplanetary (DRAK) ",,Light Salvage,Industrial,1,,583
+X1," Origin Jumpworks (ORIG) ",,Transport,Personal Transport,1,,
+X1 Force," Origin Jumpworks (ORIG) ",,Transport,Personal Transport,1,,
+X1 Velocity," Origin Jumpworks (ORIG) ",,Racing,Personal Transport,1,,
+'WAR'," Vanduul (VNCL) ",,,,,,
+'WARLORD'," Vanduul (VNCL) ",,,,,,
+'WASP'," Vanduul (VNCL) ",,,,,,
+'WEAK'," Vanduul (VNCL) ",,,,,,
+'WHIP'," Vanduul (VNCL) ",,,,,,
+'WRATH'," Vanduul (VNCL) ",,,,,,
+10-Series Greatsword," KnightBridge Arms (KBAR) ",11 050,,,,,
+11-Series Broadsword," KnightBridge Arms (KBAR) ",23 100,,,,,
+9-Series Longsword," KnightBridge Arms (KBAR) ",6 250,,,,,
+Absolution," Preacher Armament (PRAR) ",19 950,,,,,
+AD4B," Behring (BEHR) ",41 730,,,,,
+AD5B," Behring (BEHR) ",55 840,,,,,
+AD6B," Behring (BEHR) ",62 450,,,,,
+Attrition-1," Hurston Dynamics (HRST) ",3 800,,,,,
+Attrition-2," Hurston Dynamics (HRST) ",6 950,,,,,
+Attrition-3," Hurston Dynamics (HRST) ",12 000,,,,,
+Attrition-4," Hurston Dynamics (HRST) ",25 200,,,,,
+Attrition-5," Hurston Dynamics (HRST) ",41 000,,,,,
+Attrition-6," Hurston Dynamics (HRST) ",73 450,,,,,
+ATVS," Behring (BEHR) ",8 250,,,,,
+BRVS," Behring (BEHR) ",8 850,,,,,
+C-788," Behring (BEHR) ",23 500,,,,,
+CF-117 Bulldog," Klaus & Werner (KLWE) ",3 700,,,,,
+CF-227 Badger," Klaus & Werner (KLWE) ",6 150,,,,,
+CF-337 Panther," Klaus & Werner (KLWE) ",10 500,,,,,
+CF-447 Rhino," Klaus & Werner (KLWE) ",22 250,,,,,
+CF-557 Galdereen," Klaus & Werner (KLWE) ",37 350,,,,,
+CF-667 Mammoth," Klaus & Werner (KLWE) ",63 800,,,,,
+Condemnation," Preacher Armament (PRAR) ",18 950,,,,,
+CVSA," Behring (BEHR) ",12 400,,,,,
+Deadbolt I," Esperia (ESPR) ",6 630,,,,,
+Deadbolt II," Esperia (ESPR) ",12 690,,,,,
+Deadbolt III," Esperia (ESPR) ",18 240,,,,,
+Deadbolt IV," Esperia (ESPR) ",28 200,,,,,
+Deadbolt V," Esperia (ESPR) ",69 030,,,,,
+Deadbolt VI," Esperia (ESPR) ",114 614,,,,,
+Dominance-1," Hurston Dynamics (HRST) ",7 100,,,,,
+Dominance-2," Hurston Dynamics (HRST) ",9 850,,,,,
+Dominance-3," Hurston Dynamics (HRST) ",17 950,,,,,
+DR Model-XJ1," Associated Science and Development (ASAD) ",1 450,,,,,
+DR Model-XJ2," Associated Science and Development (ASAD) ",3 000,,,,,
+DR Model-XJ3," Associated Science and Development (ASAD) ",6 150,,,,,
+Draugar," Apocalypse Arms (APAR) ",69 650,,,,,
+EVSD," Behring (BEHR) ",7 200,,,,,
+FL-11," Kroneg (KRON) ",5 200,,,,,
+FL-22," Kroneg (KRON) ",9 550,,,,,
+FL-33," Kroneg (KRON) ",19 200,,,,,
+GVSR," Behring (BEHR) ",6 500,,,,,
+Havoc," Apocalypse Arms (APAR) ",6 850,,,,,
+Hellion," Apocalypse Arms (APAR) ",10 750,,,,,
+Jericho," Hurston Dynamics (HRST) ",,,,,,
+Jericho X," Hurston Dynamics (HRST) ",,,,,,
+Jericho XL," FireStorm Kinetics (FSKI) ",,,,,,
+Jericho XL," Hurston Dynamics (HRST) ",,,,,,
+Liberator," Thermyte Concern (THCN) ",,,,,,
+Liberator Prime," Thermyte Concern (THCN) ",,,,,,
+Liberator Ultra," Thermyte Concern (THCN) ",,,,,,
+Lightstrike I," Esperia (ESPR) ",6 360,,,,,
+Lightstrike II," Esperia (ESPR) ",12 720,,,,,
+Lightstrike III," Esperia (ESPR) ",29 100,,,,,
+Lightstrike IV," Esperia (ESPR) ",42 320,,,,,
+Lightstrike V," Esperia (ESPR) ",60 380,,,,,
+Lightstrike VI," Esperia (ESPR) ",118 810,,,,,
+M3A," Behring (BEHR) ",5 300,,,,,
+M4A," Behring (BEHR) ",9 950,,,,,
+M5A," Behring (BEHR) ",19 300,,,,,
+M6A," Behring (BEHR) ",39 050,,,,,
+M7A," Behring (BEHR) ",76 700,,,,,
+M8A," Behring (BEHR) ",127 350,,,,,
+M9A," Behring (BEHR) ",,,,,,
+Mantis GT-220," Gallenson Tactical Systems (GATS) ",13 500,,,,,
+MVSA," Behring (BEHR) ",9 500,,,,,
+NDB-26," maxOx (MXOX) ",4 400,,,,,
+NDB-28," maxOx (MXOX) ",7 650,,,,,
+NDB-30," maxOx (MXOX) ",13 950,,,,,
+NN-13," maxOx (MXOX) ",7 450,,,,,
+NN-14," maxOx (MXOX) ",14 150,,,,,
+Omnisky III," Amon & Reese Co. (AMRS) ",5 200,,,,,
+Omnisky IX," Amon & Reese Co. (AMRS) ",18 650,,,,,
+Omnisky VI," Amon & Reese Co. (AMRS) ",10 600,,,,,
+Omnisky XII," Amon & Reese Co. (AMRS) ",41 950,,,,,
+Omnisky XV," Amon & Reese Co. (AMRS) ",59 300,,,,,
+Omnisky XVIII," Amon & Reese Co. (AMRS) ",117 150,,,,,
+Predator," Apocalypse Arms (APAR) ",18 450,,,,,
+PyroBurst," Amon & Reese Co. (AMRS) ",12 900,,,,,
+Quarreler," Kruger Intergalatic (KRIG) ",24 250,,,,,
+Reign-3," Hurston Dynamics (HRST) ",,,,,,
+Revenant," Apocalypse Arms (APAR) ",42 950,,,,,
+Salvation," Preacher Armament (PRAR) ",10 700,,,,,
+Scorpion GT-215," Gallenson Tactical Systems (GATS) ",7 850,,,,,
+SF7B," Behring (BEHR) ",,,,,,
+SF7E," Behring (BEHR) ",,,,,,
+Singe-1," Banu (BANU) ",,,,,,
+Singe-2," Banu (BANU) ",,,,,,
+Singe-3," Banu (BANU) ",,,,,,
+Slayer," Hurston Dynamics (HRST) ",,,,,,
+Sledge I Mass Driver," Klaus & Werner (KLWE) ",9 750,,,,,
+Sledge II Mass Driver," Klaus & Werner (KLWE) ",13 450,,,,,
+Sledge III Mass Driver," Klaus & Werner (KLWE) ",32 500,,,,,
+Strife Mass Driver," Apocalypse Arms (APAR) ",14 350,,,,,
+Suckerpunch," Joker Engineering (JOKR) ",2 600,,,,,
+Suckerpunch-L," Joker Engineering (JOKR) ",4 650,,,,,
+Suckerpunch-XL," Joker Engineering (JOKR) ",10 050,,,,,
+"SW16BR1 ""Buzzsaw"""," Behring (BEHR) ",6 500,,,,,
+"SW16BR2 ""Sawbuck"""," Behring (BEHR) ",8 400,,,,,
+"SW16BR3 ""Shredder"""," Behring (BEHR) ",15 650,,,,,
+Tarantula GT-870 Mk 1," Gallenson Tactical Systems (GATS) ",9 500,,,,,
+Tarantula GT-870 Mk 2," Gallenson Tactical Systems (GATS) ",12 300,,,,,
+Tarantula GT-870 Mk 3," Gallenson Tactical Systems (GATS) ",28 450,,,,,
+Tigerstrike T-19P," Kruger Intergalatic (KRIG) ",7 550,,,,,
+Tigerstrike T-21," Kruger Intergalatic (KRIG) ",13 000,,,,,
+Yebira I," FireStorm Kinetics (FSKI) ",,,,,,
+Yebira II," FireStorm Kinetics (FSKI) ",,,,,,
+YellowJacket GT-210," Gallenson Tactical Systems (GATS) ",4 600,,,,,
+Yeng’tu," Aopoa (XIAN) ",,,,,,
+5CA 'Akura'," Behring (BEHR) ",93 250,,,,,
+5MA 'Chimalli'," Behring (BEHR) ",28 600,,,,,
+5SA 'Rhada'," Behring (BEHR) ",15 900,,,,,
+6CA 'Bila'," Behring (BEHR) ",,,,,,
+6MA 'Kozane'," Behring (BEHR) ",31 650,,,,,
+6SA 'Arbiter'," Behring (BEHR) ",11 750,,,,,
+7CA 'Nargun'," Behring (BEHR) ",101 100,,,,,
+7MA 'Lorica'," Behring (BEHR) ",30 300,,,,,
+7SA 'Concord'," Behring (BEHR) ",12 650,,,,,
+AllStop," Gorgon Defender Industries (GODI) ",14 200,,,,,
+Armada," Basilisk (BASL) ",29 000,,,,,
+ARMOR," Seal Corporation (SECO) ",83 950,,,,,
+Aspis," Basilisk (BASL) ",34 900,,,,,
+Bamoty," Yorm (YORM) ",27 050,,,,,
+Barbican," Basilisk (BASL) ",143 150,,,,,
+BLOC," Seal Corporation (SECO) ",24 800,,,,,
+Bulwark," Basilisk (BASL) ",16 850,,,,,
+Castra," Basilisk (BASL) ",3 900,,,,,
+Citadel," Basilisk (BASL) ",41 100,,,,,
+Cloak," Ascension Astro (ASAS) ",14 650,,,,,
+CoverAll," Gorgon Defender Industries (GODI) ",33 700,,,,,
+Falco," Yorm (YORM) ",5 800,,,,,
+ForceWall," Gorgon Defender Industries (GODI) ",15 950,,,,,
+FR-66," Gorgon Defender Industries (GODI) ",18 450,,,,,
+FR-76," Gorgon Defender Industries (GODI) ",38 250,,,,,
+FR-86," Gorgon Defender Industries (GODI) ",136 400,,,,,
+FullBlock," Gorgon Defender Industries (GODI) ",52 350,,,,,
+FullStop," Gorgon Defender Industries (GODI) ",30 400,,,,,
+Glacis," Origin Jumpworks (ORIG) ",,,,,,
+GUARD," Seal Corporation (SECO) ",92 850,,,,,
+Guardian," Basilisk (BASL) ",19 900,,,,,
+Haltur," Yorm (YORM) ",36 700,,,,,
+HAVEN," Seal Corporation (SECO) ",74 600,,,,,
+HEX," Seal Corporation (SECO) ",10 750,,,,,
+INK," Seal Corporation (SECO) ",9 750,,,,,
+Jaghte," Yorm (YORM) ",9 900,,,,,
+Mirage," Ascension Astro (ASAS) ",28 600,,,,,
+Obscura," Ascension Astro (ASAS) ",36 200,,,,,
+Palisade," Basilisk (BASL) ",23 200,,,,,
+Parapet," Basilisk (BASL) ",169 550,,,,,
+PIN," Seal Corporation (SECO) ",3 100,,,,,
+Rampart," Basilisk (BASL) ",53 300,,,,,
+RPEL," Seal Corporation (SECO) ",22 400,,,,,
+SecureHyde," Gorgon Defender Industries (GODI) ",12 850,,,,,
+SecureScreen," Gorgon Defender Industries (GODI) ",85 450,,,,,
+SecureShield," Gorgon Defender Industries (GODI) ",27 700,,,,,
+Sheut," Ascension Astro (ASAS) ",44 850,,,,,
+Shimmer," Ascension Astro (ASAS) ",18 050,,,,,
+Shroud," Ascension Astro (ASAS) ",44 500,,,,,
+Steward," Basilisk (BASL) ",14 050,,,,,
+STOP," Seal Corporation (SECO) ",24 850,,,,,
+Stronghold," Basilisk (BASL) ",119 400,,,,,
+Sukoran," Banu (BANU) ",,,,,,
+Suldrath," Banu (BANU) ",,,,,,
+SureStop," Gorgon Defender Industries (GODI) ",97 350,,,,,
+Targa," Yorm (YORM) ",8 600,,,,,
+Trenta," Yorm (YORM) ",30 600,,,,,
+Umbra," Ascension Astro (ASAS) ",56 850,,,,,
+Veil," Ascension Astro (ASAS) ",22 400,,,,,
+Ward," Basilisk (BASL) ",98 000,,,,,
+WEB," Seal Corporation (SECO) ",10 750,,,,,
+Agni," Juno Starwerk (JUST) ",108 200,,,,,
+Aither," Roberts Space Industries (RSI) ",35 650,,,,,
+Allegro," ArcCorp (ARCC) ",,,,,,
+Atlas," Roberts Space Industries (RSI) ",17 900,,,,,
+Balandin," Wei-Tek (WETK) ",142 050,,,,,
+Beacon," Wei-Tek (WETK) ",37 850,,,,,
+Bolon," Juno Starwerk (JUST) ",33 250,,,,,
+Bolt," RAMP Corporation (RACO) ",53 700,,,,,
+Burst," ArcCorp (ARCC) ",13 100,,,,,
+Cascade," ArcCorp (ARCC) ",26 100,,,,,
+Colossus," Juno Starwerk (JUST) ",16 150,,,,,
+Crossfield," Wei-Tek (WETK) ",60 050,,,,,
+Drift," RAMP Corporation (RACO) ",21 500,,,,,
+Drifter," Tarsus (TARS) ",89 600,,,,,
+Echo," ArcCorp (ARCC) ",112 600,,,,,
+Eos," Roberts Space Industries (RSI) ",15 700,,,,,
+Erebos," Roberts Space Industries (RSI) ",126 000,,,,,
+Expedition," Tarsus (TARS) ",15 000,,,,,
+Fissure," ArcCorp (ARCC) ",99 700,,,,,
+Flash," ArcCorp (ARCC) ",27 650,,,,,
+Flood," ArcCorp (ARCC) ",12 450,,,,,
+FoxFire," Ace Astrogation (ACAS) ",29 150,,,,,
+Goliath," Juno Starwerk (JUST) ",14 200,,,,,
+Hemera," Roberts Space Industries (RSI) ",38 250,,,,,
+Huracan," Juno Starwerk (JUST) ",36 800,,,,,
+Hyperion," Roberts Space Industries (RSI) ",16 800,,,,,
+Impulse," ArcCorp (ARCC) ",89 200,,,,,
+Kama," Juno Starwerk (JUST) ",109 750,,,,,
+Khaos," Roberts Space Industries (RSI) ",33 100,,,,,
+LightFire," Ace Astrogation (ACAS) ",26 450,,,,,
+Metis," Roberts Space Industries (RSI) ",130 050,,,,,
+Nova," RAMP Corporation (RACO) ",43 850,,,,,
+Odyssey," Tarsus (TARS) ",31 450,,,,,
+Pontes," Wei-Tek (WETK) ",117 850,,,,,
+Quest," Tarsus (TARS) ",29 550,,,,,
+Ranger," Tarsus (TARS) ",101 700,,,,,
+Rush," ArcCorp (ARCC) ",12 800,,,,,
+Siren," Wei-Tek (WETK) ",48 550,,,,,
+Sojourn," Tarsus (TARS) ",32 850,,,,,
+SparkFire," Ace Astrogation (ACAS) ",56 100,,,,,
+Spectre," RAMP Corporation (RACO) ",36 150,,,,,
+Spicule," RAMP Corporation (RACO) ",63 200,,,,,
+SunFire," Ace Astrogation (ACAS) ",57 950,,,,,
+Torrent," ArcCorp (ARCC) ",26 900,,,,,
+TS-2," Wei-Tek (WETK) ",93 700,,,,,
+Tyche," Roberts Space Industries (RSI) ",133 000,,,,,
+Vesta," Juno Starwerk (JUST) ",106 600,,,,,
+VK-00," Wei-Tek (WETK) ",43 300,,,,,
+Voyage," Tarsus (TARS) ",15 600,,,,,
+Vulcan," Juno Starwerk (JUST) ",13 900,,,,,
+Wanderer," Tarsus (TARS) ",111 950,,,,,
+Wayfare," Tarsus (TARS) ",14 100,,,,,
+XL-1," Wei-Tek (WETK) ",94 900,,,,,
+Yaluk," Juno Starwerk (JUST) ",30 000,,,,,
+Yeager," Wei-Tek (WETK) ",74 350,,,,,
+Zephyr," RAMP Corporation (RACO) ",30 250,,,,,
+Bolide," Aegis Dynamics (AEGS) ",43 200,,,,,
+Breton," Juno Starwerk (JUST) ",52 600,,,,,
+Celestial," Sakura Sun (SASU) ",100 500,,,,,
+Centurion," Aegis Dynamics (AEGS) ",120 150,,,,,
+Charger," Aegis Dynamics (AEGS) ",12 700,,,,,
+Cirrus," Tyler Design & Tech (TYDT) ",44 800,,,,,
+DayBreak," Sakura Sun (SASU) ",41 250,,,,,
+Defiant," Juno Starwerk (JUST) ",7 400,,,,,
+DeltaMax," Tyler Design & Tech (TYDT) ",15 700,,,,,
+Diligence," Juno Starwerk (JUST) ",74 150,,,,,
+Drassik," Aegis Dynamics (AEGS) ",113 600,,,,,
+DuraJet," Lightning Power Ltd. (LPLT) ",4 000,,,,,
+Durango," Juno Starwerk (JUST) ",430 350,,,,,
+DynaFlux," Amon & Reese Co. (AMRS) ",17 150,,,,,
+Eclipse," Tyler Design & Tech (TYDT) ",74 550,,,,,
+Endurance," Juno Starwerk (JUST) ",32 150,,,,,
+ExoGen," Amon & Reese Co. (AMRS) ",37 250,,,,,
+Fierell Cascade," Aegis Dynamics (AEGS) ",17 900,,,,,
+Fortitude," Juno Starwerk (JUST) ",30 950,,,,,
+Fulgur," Aegis Dynamics (AEGS) ",130 850,,,,,
+FullForce," Lightning Power Ltd. (LPLT) ",33 600,,,,,
+FullForce Pro," Lightning Power Ltd. (LPLT) ",88 400,,,,,
+GammaMax," Tyler Design & Tech (TYDT) ",59 050,,,,,
+Genoa," Juno Starwerk (JUST) ",150 600,,,,,
+Ginzel," Juno Starwerk (JUST) ",206 600,,,,,
+HyperGen," Amon & Reese Co. (AMRS) ",19 800,,,,,
+IonBurst," Lightning Power Ltd. (LPLT) ",17 000,,,,,
+IonSurge," Lightning Power Ltd. (LPLT) ",34 850,,,,,
+IonSurge Pro," Lightning Power Ltd. (LPLT) ",98 650,,,,,
+IonWave," Lightning Power Ltd. (LPLT) ",4 000,,,,,
+Jennet," Juno Starwerk (JUST) ",7 400,,,,,
+JS-300," Amon & Reese Co. (AMRS) ",19 700,,,,,
+JS-400," Amon & Reese Co. (AMRS) ",53 150,,,,,
+JS-500," Amon & Reese Co. (AMRS) ",139 750,,,,,
+LightBlossom," Sakura Sun (SASU) ",15 450,,,,,
+Lotus," Sakura Sun (SASU) ",44 650,,,,,
+LumaCore," ACOM (ACOM) ",6 100,,,,,
+LuxCore," ACOM (ACOM) ",23 050,,,,,
+Maelstrom," Aegis Dynamics (AEGS) ",43 250,,,,,
+MagnaBloom," Sakura Sun (SASU) ",16 400,,,,,
+Main Powerplant," Aegis Dynamics (AEGS) ",,,,,,
+MegaFlux," Amon & Reese Co. (AMRS) ",124 150,,,,,
+NewDawn," Sakura Sun (SASU) ",80 100,,,,,
+OverDrive," Amon & Reese Co. (AMRS) ",15 300,,,,,
+PowerBolt," Lightning Power Ltd. (LPLT) ",18 400,,,,,
+QuadraCell," Aegis Dynamics (AEGS) ",20 300,,,,,
+QuadraCell MT," Aegis Dynamics (AEGS) ",56 850,,,,,
+QuadraCell MX," Aegis Dynamics (AEGS) ",148 250,,,,,
+Radiance," Sakura Sun (SASU) ",42 250,,,,,
+Radix," Lightning Power Ltd. (LPLT) ",4 000,,,,,
+Regulus," Aegis Dynamics (AEGS) ",13 600,,,,,
+Reliance," Juno Starwerk (JUST) ",,,,,,
+Roughneck," Juno Starwerk (JUST) ",23 450,,,,,
+Sedulity," Juno Starwerk (JUST) ",102 650,,,,,
+Slipstream," Tyler Design & Tech (TYDT) ",18 600,,,,,
+SmartGen," Amon & Reese Co. (AMRS) ",109 600,,,,,
+SolarFlare," ACOM (ACOM) ",11 550,,,,,
+SonicLite," Tyler Design & Tech (TYDT) ",17 650,,,,,
+SparkJet," Lightning Power Ltd. (LPLT) ",29 750,,,,,
+SparkJet Pro," Lightning Power Ltd. (LPLT) ",66 800,,,,,
+StarBurn," ACOM (ACOM) ",17 900,,,,,
+StarHeart," ACOM (ACOM) ",4 150,,,,,
+Steadfast," Juno Starwerk (JUST) ",7 400,,,,,
+Stellate," Sakura Sun (ROO) ",,,,,,
+SunFlare," ACOM (ACOM) ",2 800,,,,,
+SuperDrive," Amon & Reese Co. (AMRS) ",114 750,,,,,
+TigerLilly," Sakura Sun (SASU) ",165 450,,,,,
+Trommel," Juno Starwerk (JUST) ",60 150,,,,,
+TurboDrive," Amon & Reese Co. (AMRS) ",39 500,,,,,
+UltraFlux," Amon & Reese Co. (AMRS) ",46 150,,,,,
+Vortex," Aegis Dynamics (AEGS) ",37 600,,,,,
+WhiteRose," Sakura Sun (SASU) ",16 850,,,,,
+ZapJet," Lightning Power Ltd. (LPLT) ",15 000,,,,,
+AbsoluteZero," ACOM (ACOM) ",43 450,,,,,
+Arctic," Aegis Dynamics (AEGS) ",44 900,,,,,
+ArcticStorm," Lightning Power Ltd. (LPLT) ",14 250,,,,,
+Aufeis," Wen/Cassel Propulsion (WCPR) ",38 500,,,,,
+Avalanche," Aegis Dynamics (AEGS) ",58 100,,,,,
+Berian," Wen/Cassel Propulsion (WCPR) ",13 950,,,,,
+BlastChill," Lightning Power Ltd. (LPLT) ",13 900,,,,,
+Blizzard," Aegis Dynamics (AEGS) ",146 250,,,,,
+Boreal," Aegis Dynamics (AEGS) ",42 750,,,,,
+Bracer," Aegis Dynamics (AEGS) ",16 400,,,,,
+Chill-Max," Juno Starwerk (JUST) ",287 250,,,,,
+ColdSnap," Lightning Power Ltd. (LPLT) ",37 750,,,,,
+ColdSurge," Lightning Power Ltd. (LPLT) ",98 100,,,,,
+CoolCore," Juno Starwerk (JUST) ",59 800,,,,,
+Cryo-Star," J-Span (JSPN) ",15 050,,,,,
+Cryo-Star EX," J-Span (JSPN) ",40 400,,,,,
+Cryo-Star SL," J-Span (JSPN) ",6 300,,,,,
+Cryo-Star XL," J-Span (JSPN) ",115 750,,,,,
+Draug," Wen/Cassel Propulsion (WCPR) ",,,,,,
+Eco-Flow," Juno Starwerk (JUST) ",22 800,,,,,
+Elsen," Aegis Dynamics (AEGS) ",,,,,,
+Endo," Wen/Cassel Propulsion (WCPR) ",14 300,,,,,
+FlashFreeze," Lightning Power Ltd. (LPLT) ",14 750,,,,,
+Fridan," Wen/Cassel Propulsion (WCPR) ",6 300,,,,,
+Frost-Star," J-Span (JSPN) ",14 700,,,,,
+Frost-Star EX," J-Span (JSPN) ",39 300,,,,,
+Frost-Star SL," J-Span (JSPN) ",6 300,,,,,
+Frost-Star XL," J-Span (JSPN) ",112 250,,,,,
+FrostBite," Lightning Power Ltd. (LPLT) ",110 850,,,,,
+FrostBurn," Lightning Power Ltd. (LPLT) ",104 950,,,,,
+FullFrost," Lightning Power Ltd. (LPLT) ",39 500,,,,,
+Galinstan," Aegis Dynamics (AEGS) ",118 000,,,,,
+Gelid," Wen/Cassel Propulsion (WCPR) ",14 500,,,,,
+Glacier," Aegis Dynamics (AEGS) ",19 300,,,,,
+Graupel," Wen/Cassel Propulsion (WCPR) ",36 750,,,,,
+HeatSafe," Tyler Design & Tech (TYDT) ",10 650,,,,,
+HeatSink," Tyler Design & Tech (TYDT) ",22 850,,,,,
+Hydrocel," Juno Starwerk (JUST) ",19 200,,,,,
+HydroJet," Juno Starwerk (JUST) ",52 750,,,,,
+Hydropulse," Juno Starwerk (JUST) ",156 500,,,,,
+Ice-Flush," Juno Starwerk (JUST) ",213 150,,,,,
+IceBox," Tyler Design & Tech (TYDT) ",28 650,,,,,
+IceDive," ACOM (ACOM) ",42 400,,,,,
+IcePlunge," ACOM (ACOM) ",15 800,,,,,
+Kelvid," Wen/Cassel Propulsion (WCPR) ",6 300,,,,,
+Kragen," Wen/Cassel Propulsion (WCPR) ",,,,,,
+Mercury," Aegis Dynamics (AEGS) ",122 500,,,,,
+NightFall," Tyler Design & Tech (TYDT) ",32 600,,,,,
+Permafrost," Aegis Dynamics (AEGS) ",49 650,,,,,
+Polar," Aegis Dynamics (AEGS) ",17 550,,,,,
+QuikCool," ACOM (ACOM) ",15 750,,,,,
+RapidCool," ACOM (ACOM) ",42 300,,,,,
+Serac," Wen/Cassel Propulsion (WCPR) ",,,,,,
+SnowBlind," Tyler Design & Tech (TYDT) ",12 850,,,,,
+Snowfall," Juno Starwerk (JUST) ",,,,,,
+Snowpack," Juno Starwerk (JUST) ",82 900,,,,,
+Taiga," Wen/Cassel Propulsion (WCPR) ",37 700,,,,,
+Tempest," Aegis Dynamics (AEGS) ",130 900,,,,,
+Tepilo," Wen/Cassel Propulsion (WCPR) ",6 300,,,,,
+ThermalCore," Juno Starwerk (JUST) ",176 300,,,,,
+Thermax," Juno Starwerk (JUST) ",20 500,,,,,
+Tundra," Aegis Dynamics (AEGS) ",15 750,,,,,
+Ultra-Flow," Juno Starwerk (JUST) ",27 550,,,,,
+VaporBlock," Tyler Design & Tech (TYDT) ",11 950,,,,,
+WhiteOut," Lightning Power Ltd. (LPLT) ",36 400,,,,,
+Winter-Star," J-Span (JSPN) ",14 200,,,,,
+Winter-Star EX," J-Span (JSPN) ",37 500,,,,,
+Winter-Star SL," J-Span (JSPN) ",6 300,,,,,
+Winter-Star XL," J-Span (JSPN) ",105 250,,,,,
+ZeroRush," ACOM (ACOM) ",16 150,,,,,

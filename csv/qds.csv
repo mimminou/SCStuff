@@ -1,0 +1,200 @@
+name,manufacturer,basePrice,size,class,grade,maxSpeedKms,spoolUpTime
+Agni," Juno Starwerk (JUST) ",108 200,3,Industrial,B," 61 575 "," 20 "
+Aither," Roberts Space Industries (RSI) ",35 650,2,Civilian,B," 121 660 "," 5.05 "
+Allegro," ArcCorp (ARCC) ",,4,Civilian,A," 117 654 "," 29 "
+Atlas," Roberts Space Industries (RSI) ",17 900,1,Civilian,A," 151 951 "," 5.1 "
+Balandin," Wei-Tek (WETK) ",142 050,3,Military,B," 198 629 "," 5 "
+Beacon," Wei-Tek (WETK) ",37 850,1,Military,C," 253 252 "," 2.25 "
+Bolon," Juno Starwerk (JUST) ",33 250,2,Industrial,C," 74 486 "," 7.75 "
+Bolt," RAMP Corporation (RACO) ",53 700,2,Stealth,B," 155 179 "," 6.5 "
+Burst," ArcCorp (ARCC) ",13 100,1,Civilian,B," 169 828 "," 5.6 "
+Cascade," ArcCorp (ARCC) ",26 100,2,Civilian,D," 126 626 "," 5.4 "
+Colossus," Juno Starwerk (JUST) ",16 150,1,Industrial,B," 92 363 "," 8 "
+Crossfield," Wei-Tek (WETK) ",60 050,2,Military,C," 235 872 "," 2.25 "
+Drift," RAMP Corporation (RACO) ",21 500,1,Stealth,C," 171 318 "," 6.75 "
+Drifter," Tarsus (TARS) ",89 600,3,Civilian,D," 93 356 "," 12.75 "
+Echo," ArcCorp (ARCC) ",112 600,3,Civilian,D," 101 301 "," 13.5 "
+Eos," Roberts Space Industries (RSI) ",15 700,1,Civilian,C," 138 544 "," 5 "
+Erebos," Roberts Space Industries (RSI) ",126 000,3,Civilian,A," 101 301 "," 12.75 "
+Expedition," Tarsus (TARS) ",15 000,1,Civilian,C," 148 972 "," 5 "
+Fissure," ArcCorp (ARCC) ",99 700,3,Civilian,C," 106 267 "," 13.75 "
+Flash," ArcCorp (ARCC) ",27 650,2,Civilian,B," 141 523 "," 5 "
+Flood," ArcCorp (ARCC) ",12 450,1,Civilian,D," 151 951 "," 5.4 "
+FoxFire," Ace Astrogation (ACAS) ",29 150,1,Competition,B," 104 280 "," 6.5 "
+Goliath," Juno Starwerk (JUST) ",14 200,1,Industrial,C," 89 383 "," 7.75 "
+Hemera," Roberts Space Industries (RSI) ",38 250,2,Civilian,A," 126 626 "," 5.1 "
+Huracan," Juno Starwerk (JUST) ",36 800,2,Industrial,B," 76 969 "," 8 "
+Hyperion," Roberts Space Industries (RSI) ",16 800,1,Civilian,B," 145 992 "," 5.05 "
+Impulse," ArcCorp (ARCC) ",89 200,3,Civilian,B," 113 219 "," 14 "
+Kama," Juno Starwerk (JUST) ",109 750,3,Industrial,C," 59 589 "," 19.38 "
+Khaos," Roberts Space Industries (RSI) ",33 100,2,Civilian,C," 115 453 "," 5 "
+LightFire," Ace Astrogation (ACAS) ",26 450,1,Competition,C," 89 383 "," 6 "
+Metis," Roberts Space Industries (RSI) ",130 050,3,Civilian,C," 92 363 "," 12.5 "
+Nova," RAMP Corporation (RACO) ",43 850,2,Stealth,C," 142 765 "," 6.75 "
+Odyssey," Tarsus (TARS) ",31 450,2,Civilian,C," 124 143 "," 5 "
+Pontes," Wei-Tek (WETK) ",117 850,3,Military,C," 188 698 "," 5.63 "
+Quest," Tarsus (TARS) ",29 550,2,Civilian,D," 116 695 "," 5.1 "
+Ranger," Tarsus (TARS) ",101 700,3,Civilian,B," 105 273 "," 12.75 "
+Rush," ArcCorp (ARCC) ",12 800,1,Civilian,C," 159 400 "," 5.5 "
+Siren," Wei-Tek (WETK) ",48 550,1,Military,B," 268 149 "," 2 "
+Sojourn," Tarsus (TARS) ",32 850,2,Civilian,B," 131 592 "," 5.1 "
+SparkFire," Ace Astrogation (ACAS) ",56 100,2,Competition,C," 74 486 "," 6 "
+Spectre," RAMP Corporation (RACO) ",36 150,1,Stealth,A," 201 112 "," 6.25 "
+Spicule," RAMP Corporation (RACO) ",63 200,2,Stealth,A," 167 593 "," 6.25 "
+SunFire," Ace Astrogation (ACAS) ",57 950,2,Competition,B," 86 900 "," 6.5 "
+Torrent," ArcCorp (ARCC) ",26 900,2,Civilian,C," 132 833 "," 5.5 "
+TS-2," Wei-Tek (WETK) ",93 700,3,Military,A," 208 561 "," 4.3 "
+Tyche," Roberts Space Industries (RSI) ",133 000,3,Civilian,B," 97 328 "," 12.63 "
+Vesta," Juno Starwerk (JUST) ",106 600,3,Industrial,D," 53 630 "," 18.13 "
+VK-00," Wei-Tek (WETK) ",43 300,1,Military,A," 283 046 "," 1.75 "
+Voyage," Tarsus (TARS) ",15 600,1,Civilian,B," 157 910 "," 5.1 "
+Vulcan," Juno Starwerk (JUST) ",13 900,1,Industrial,D," 80 445 "," 7.25 "
+Wanderer," Tarsus (TARS) ",111 950,3,Civilian,C," 99 315 "," 12.5 "
+Wayfare," Tarsus (TARS) ",14 100,1,Civilian,D," 140 034 "," 5.1 "
+XL-1," Wei-Tek (WETK) ",94 900,2,Military,A," 260 701 "," 1.75 "
+Yaluk," Juno Starwerk (JUST) ",30 000,2,Industrial,D," 67 037 "," 7.25 "
+Yeager," Wei-Tek (WETK) ",74 350,2,Military,B," 248 286 "," 2 "
+Zephyr," RAMP Corporation (RACO) ",30 250,1,Stealth,B," 186 215 "," 6.5 "
+Bolide," Aegis Dynamics (AEGS) ",43 200,2,Military,B,,
+Breton," Juno Starwerk (JUST) ",52 600,1,Industrial,A,,
+Celestial," Sakura Sun (SASU) ",100 500,3,Civilian,B,,
+Centurion," Aegis Dynamics (AEGS) ",120 150,3,Military,C,,
+Charger," Aegis Dynamics (AEGS) ",12 700,1,Military,D,,
+Cirrus," Tyler Design & Tech (TYDT) ",44 800,2,Stealth,C,,
+DayBreak," Sakura Sun (SASU) ",41 250,2,Civilian,C,,
+Defiant," Juno Starwerk (JUST) ",7 400,0,Industrial,B,,
+DeltaMax," Tyler Design & Tech (TYDT) ",15 700,1,Stealth,B,,
+Diligence," Juno Starwerk (JUST) ",74 150,2,Industrial,C,,
+Drassik," Aegis Dynamics (AEGS) ",113 600,3,Military,D,,
+DuraJet," Lightning Power Ltd. (LPLT) ",4 000,0,Civilian,D,,
+Durango," Juno Starwerk (JUST) ",430 350,3,Industrial,A,,
+DynaFlux," Amon & Reese Co. (AMRS) ",17 150,1,Military,B,,
+Eclipse," Tyler Design & Tech (TYDT) ",74 550,2,Stealth,A,,
+Endurance," Juno Starwerk (JUST) ",32 150,1,Industrial,B,,
+ExoGen," Amon & Reese Co. (AMRS) ",37 250,2,Military,D,,
+Fierell Cascade," Aegis Dynamics (AEGS) ",17 900,1,Military,B,,
+Fortitude," Juno Starwerk (JUST) ",30 950,1,Industrial,C,,
+Fulgur," Aegis Dynamics (AEGS) ",130 850,3,Military,B,,
+FullForce," Lightning Power Ltd. (LPLT) ",33 600,2,Civilian,C,,
+FullForce Pro," Lightning Power Ltd. (LPLT) ",88 400,3,Civilian,C,,
+GammaMax," Tyler Design & Tech (TYDT) ",59 050,2,Stealth,B,,
+Genoa," Juno Starwerk (JUST) ",150 600,2,Industrial,A,,
+Ginzel," Juno Starwerk (JUST) ",206 600,3,Industrial,C,,
+HyperGen," Amon & Reese Co. (AMRS) ",19 800,1,Military,D,,
+IonBurst," Lightning Power Ltd. (LPLT) ",17 000,1,Civilian,B,,
+IonSurge," Lightning Power Ltd. (LPLT) ",34 850,2,Civilian,B,,
+IonSurge Pro," Lightning Power Ltd. (LPLT) ",98 650,3,Civilian,B,,
+IonWave," Lightning Power Ltd. (LPLT) ",4 000,0,Civilian,B,,
+Jennet," Juno Starwerk (JUST) ",7 400,0,Industrial,D,,
+JS-300," Amon & Reese Co. (AMRS) ",19 700,1,Military,A,,
+JS-400," Amon & Reese Co. (AMRS) ",53 150,2,Military,A,,
+JS-500," Amon & Reese Co. (AMRS) ",139 750,3,Military,A,,
+LightBlossom," Sakura Sun (SASU) ",15 450,1,Civilian,C,,
+Lotus," Sakura Sun (SASU) ",44 650,2,Civilian,A,,
+LumaCore," ACOM (ACOM) ",6 100,1,Competition,A,,
+LuxCore," ACOM (ACOM) ",23 050,2,Competition,A,,
+Maelstrom," Aegis Dynamics (AEGS) ",43 250,2,Military,C,,
+MagnaBloom," Sakura Sun (SASU) ",16 400,1,Civilian,B,,
+Main Powerplant," Aegis Dynamics (AEGS) ",,4,,A,,
+MegaFlux," Amon & Reese Co. (AMRS) ",124 150,3,Military,B,,
+NewDawn," Sakura Sun (SASU) ",80 100,3,Civilian,C,,
+OverDrive," Amon & Reese Co. (AMRS) ",15 300,1,Military,C,,
+PowerBolt," Lightning Power Ltd. (LPLT) ",18 400,1,Civilian,C,,
+QuadraCell," Aegis Dynamics (AEGS) ",20 300,1,Military,A,,
+QuadraCell MT," Aegis Dynamics (AEGS) ",56 850,2,Military,A,,
+QuadraCell MX," Aegis Dynamics (AEGS) ",148 250,3,Military,A,,
+Radiance," Sakura Sun (SASU) ",42 250,2,Civilian,B,,
+Radix," Lightning Power Ltd. (LPLT) ",4 000,0,Civilian,C,,
+Regulus," Aegis Dynamics (AEGS) ",13 600,1,Military,C,,
+Reliance," Juno Starwerk (JUST) ",,3,Industrial,B,,
+Roughneck," Juno Starwerk (JUST) ",23 450,1,Industrial,D,,
+Sedulity," Juno Starwerk (JUST) ",102 650,2,Industrial,B,,
+Slipstream," Tyler Design & Tech (TYDT) ",18 600,1,Stealth,A,,
+SmartGen," Amon & Reese Co. (AMRS) ",109 600,3,Military,D,,
+SolarFlare," ACOM (ACOM) ",11 550,2,Competition,C,,
+SonicLite," Tyler Design & Tech (TYDT) ",17 650,1,Stealth,C,,
+SparkJet," Lightning Power Ltd. (LPLT) ",29 750,2,Civilian,D,,
+SparkJet Pro," Lightning Power Ltd. (LPLT) ",66 800,3,Civilian,D,,
+StarBurn," ACOM (ACOM) ",17 900,2,Competition,B,,
+StarHeart," ACOM (ACOM) ",4 150,1,Competition,B,,
+Steadfast," Juno Starwerk (JUST) ",7 400,0,Industrial,C,,
+Stellate," Sakura Sun (ROO) ",,4,Civilian,A,,
+SunFlare," ACOM (ACOM) ",2 800,1,Competition,C,,
+SuperDrive," Amon & Reese Co. (AMRS) ",114 750,3,Military,C,,
+TigerLilly," Sakura Sun (SASU) ",165 450,3,Civilian,A,,
+Trommel," Juno Starwerk (JUST) ",60 150,2,Industrial,D,,
+TurboDrive," Amon & Reese Co. (AMRS) ",39 500,2,Military,C,,
+UltraFlux," Amon & Reese Co. (AMRS) ",46 150,2,Military,B,,
+Vortex," Aegis Dynamics (AEGS) ",37 600,2,Military,D,,
+WhiteRose," Sakura Sun (SASU) ",16 850,1,Civilian,A,,
+ZapJet," Lightning Power Ltd. (LPLT) ",15 000,1,Civilian,D,,
+AbsoluteZero," ACOM (ACOM) ",43 450,2,Competition,B,,
+Arctic," Aegis Dynamics (AEGS) ",44 900,2,Military,C,,
+ArcticStorm," Lightning Power Ltd. (LPLT) ",14 250,1,Civilian,C,,
+Aufeis," Wen/Cassel Propulsion (WCPR) ",38 500,2,Civilian,A,,
+Avalanche," Aegis Dynamics (AEGS) ",58 100,2,Military,A,,
+Berian," Wen/Cassel Propulsion (WCPR) ",13 950,1,Civilian,C,,
+BlastChill," Lightning Power Ltd. (LPLT) ",13 900,1,Civilian,D,,
+Blizzard," Aegis Dynamics (AEGS) ",146 250,3,Military,A,,
+Boreal," Aegis Dynamics (AEGS) ",42 750,2,Military,D,,
+Bracer," Aegis Dynamics (AEGS) ",16 400,1,Military,C,,
+Chill-Max," Juno Starwerk (JUST) ",287 250,3,Industrial,A,,
+ColdSnap," Lightning Power Ltd. (LPLT) ",37 750,2,Civilian,C,,
+ColdSurge," Lightning Power Ltd. (LPLT) ",98 100,3,Civilian,D,,
+CoolCore," Juno Starwerk (JUST) ",59 800,2,Industrial,C,,
+Cryo-Star," J-Span (JSPN) ",15 050,1,Civilian,B,,
+Cryo-Star EX," J-Span (JSPN) ",40 400,2,Civilian,B,,
+Cryo-Star SL," J-Span (JSPN) ",6 300,0,Civilian,B,,
+Cryo-Star XL," J-Span (JSPN) ",115 750,3,Civilian,B,,
+Draug," Wen/Cassel Propulsion (WCPR) ",,3,Civilian,A,,
+Eco-Flow," Juno Starwerk (JUST) ",22 800,1,Industrial,B,,
+Elsen," Aegis Dynamics (AEGS) ",,3,Civilian,A,,
+Endo," Wen/Cassel Propulsion (WCPR) ",14 300,1,Civilian,B,,
+FlashFreeze," Lightning Power Ltd. (LPLT) ",14 750,1,Civilian,B,,
+Fridan," Wen/Cassel Propulsion (WCPR) ",6 300,0,Civilian,C,,
+Frost-Star," J-Span (JSPN) ",14 700,1,Civilian,C,,
+Frost-Star EX," J-Span (JSPN) ",39 300,2,Civilian,C,,
+Frost-Star SL," J-Span (JSPN) ",6 300,0,Civilian,C,,
+Frost-Star XL," J-Span (JSPN) ",112 250,3,Civilian,C,,
+FrostBite," Lightning Power Ltd. (LPLT) ",110 850,3,Civilian,B,,
+FrostBurn," Lightning Power Ltd. (LPLT) ",104 950,3,Civilian,C,,
+FullFrost," Lightning Power Ltd. (LPLT) ",39 500,2,Civilian,B,,
+Galinstan," Aegis Dynamics (AEGS) ",118 000,3,Military,D,,
+Gelid," Wen/Cassel Propulsion (WCPR) ",14 500,1,Civilian,A,,
+Glacier," Aegis Dynamics (AEGS) ",19 300,1,Military,A,,
+Graupel," Wen/Cassel Propulsion (WCPR) ",36 750,2,Civilian,C,,
+HeatSafe," Tyler Design & Tech (TYDT) ",10 650,1,Stealth,C,,
+HeatSink," Tyler Design & Tech (TYDT) ",22 850,2,Stealth,C,,
+Hydrocel," Juno Starwerk (JUST) ",19 200,1,Industrial,D,,
+HydroJet," Juno Starwerk (JUST) ",52 750,2,Industrial,D,,
+Hydropulse," Juno Starwerk (JUST) ",156 500,3,Industrial,D,,
+Ice-Flush," Juno Starwerk (JUST) ",213 150,3,Industrial,B,,
+IceBox," Tyler Design & Tech (TYDT) ",28 650,2,Stealth,B,,
+IceDive," ACOM (ACOM) ",42 400,2,Competition,C,,
+IcePlunge," ACOM (ACOM) ",15 800,1,Competition,C,,
+Kelvid," Wen/Cassel Propulsion (WCPR) ",6 300,0,Civilian,B,,
+Kragen," Wen/Cassel Propulsion (WCPR) ",,3,Civilian,A,,
+Mercury," Aegis Dynamics (AEGS) ",122 500,3,Military,C,,
+NightFall," Tyler Design & Tech (TYDT) ",32 600,2,Stealth,A,,
+Permafrost," Aegis Dynamics (AEGS) ",49 650,2,Military,B,,
+Polar," Aegis Dynamics (AEGS) ",17 550,1,Military,B,,
+QuikCool," ACOM (ACOM) ",15 750,1,Competition,D,,
+RapidCool," ACOM (ACOM) ",42 300,2,Competition,D,,
+Serac," Wen/Cassel Propulsion (WCPR) ",,4,Civilian,A,,
+SnowBlind," Tyler Design & Tech (TYDT) ",12 850,1,Stealth,A,,
+Snowfall," Juno Starwerk (JUST) ",,2,Industrial,B,,
+Snowpack," Juno Starwerk (JUST) ",82 900,2,Industrial,A,,
+Taiga," Wen/Cassel Propulsion (WCPR) ",37 700,2,Civilian,B,,
+Tempest," Aegis Dynamics (AEGS) ",130 900,3,Military,B,,
+Tepilo," Wen/Cassel Propulsion (WCPR) ",6 300,0,Civilian,A,,
+ThermalCore," Juno Starwerk (JUST) ",176 300,3,Industrial,C,,
+Thermax," Juno Starwerk (JUST) ",20 500,1,Industrial,C,,
+Tundra," Aegis Dynamics (AEGS) ",15 750,1,Military,D,,
+Ultra-Flow," Juno Starwerk (JUST) ",27 550,1,Industrial,A,,
+VaporBlock," Tyler Design & Tech (TYDT) ",11 950,1,Stealth,B,,
+WhiteOut," Lightning Power Ltd. (LPLT) ",36 400,2,Civilian,D,,
+Winter-Star," J-Span (JSPN) ",14 200,1,Civilian,D,,
+Winter-Star EX," J-Span (JSPN) ",37 500,2,Civilian,D,,
+Winter-Star SL," J-Span (JSPN) ",6 300,0,Civilian,D,,
+Winter-Star XL," J-Span (JSPN) ",105 250,3,Civilian,D,,
+ZeroRush," ACOM (ACOM) ",16 150,1,Competition,B,,

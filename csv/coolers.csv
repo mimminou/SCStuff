@@ -1,0 +1,71 @@
+name,manufacturer,basePrice,size,class,grade,coolingRate
+AbsoluteZero," ACOM (ACOM) ",43 450,2,Competition,B,4 760 000
+Arctic," Aegis Dynamics (AEGS) ",44 900,2,Military,C,5 200 000
+ArcticStorm," Lightning Power Ltd. (LPLT) ",14 250,1,Civilian,C,200 000
+Aufeis," Wen/Cassel Propulsion (WCPR) ",38 500,2,Civilian,A,4 080 000
+Avalanche," Aegis Dynamics (AEGS) ",58 100,2,Military,A,5 800 000
+Berian," Wen/Cassel Propulsion (WCPR) ",13 950,1,Civilian,C,186 000
+BlastChill," Lightning Power Ltd. (LPLT) ",13 900,1,Civilian,D,190 000
+Blizzard," Aegis Dynamics (AEGS) ",146 250,3,Military,A,11 600 000
+Boreal," Aegis Dynamics (AEGS) ",42 750,2,Military,D,4 800 000
+Bracer," Aegis Dynamics (AEGS) ",16 400,1,Military,C,260 000
+Chill-Max," Juno Starwerk (JUST) ",287 250,3,Industrial,A,17 600 000
+ColdSnap," Lightning Power Ltd. (LPLT) ",37 750,2,Civilian,C,4 000 000
+ColdSurge," Lightning Power Ltd. (LPLT) ",98 100,3,Civilian,D,7 600 000
+CoolCore," Juno Starwerk (JUST) ",59 800,2,Industrial,C,8 000 000
+Cryo-Star," J-Span (JSPN) ",15 050,1,Civilian,B,228 000
+Cryo-Star EX," J-Span (JSPN) ",40 400,2,Civilian,B,4 560 000
+Cryo-Star SL," J-Span (JSPN) ",6 300,0,Civilian,B,100 000
+Cryo-Star XL," J-Span (JSPN) ",115 750,3,Civilian,B,9 120 000
+Draug," Wen/Cassel Propulsion (WCPR) ",,3,Civilian,A,7 440 000
+Eco-Flow," Juno Starwerk (JUST) ",22 800,1,Industrial,B,420 000
+Elsen," Aegis Dynamics (AEGS) ",,3,Civilian,A,7 840 000
+Endo," Wen/Cassel Propulsion (WCPR) ",14 300,1,Civilian,B,196 000
+FlashFreeze," Lightning Power Ltd. (LPLT) ",14 750,1,Civilian,B,220 000
+Fridan," Wen/Cassel Propulsion (WCPR) ",6 300,0,Civilian,C,100 000
+Frost-Star," J-Span (JSPN) ",14 700,1,Civilian,C,214 000
+Frost-Star EX," J-Span (JSPN) ",39 300,2,Civilian,C,4 280 000
+Frost-Star SL," J-Span (JSPN) ",6 300,0,Civilian,C,100 000
+Frost-Star XL," J-Span (JSPN) ",112 250,3,Civilian,C,8 560 000
+FrostBite," Lightning Power Ltd. (LPLT) ",110 850,3,Civilian,B,8 800 000
+FrostBurn," Lightning Power Ltd. (LPLT) ",104 950,3,Civilian,C,8 000 000
+FullFrost," Lightning Power Ltd. (LPLT) ",39 500,2,Civilian,B,4 400 000
+Galinstan," Aegis Dynamics (AEGS) ",118 000,3,Military,D,9 600 000
+Gelid," Wen/Cassel Propulsion (WCPR) ",14 500,1,Civilian,A,204 000
+Glacier," Aegis Dynamics (AEGS) ",19 300,1,Military,A,290 000
+Graupel," Wen/Cassel Propulsion (WCPR) ",36 750,2,Civilian,C,3 720 000
+HeatSafe," Tyler Design & Tech (TYDT) ",10 650,1,Stealth,C,130 000
+HeatSink," Tyler Design & Tech (TYDT) ",22 850,2,Stealth,C,2 600 000
+Hydrocel," Juno Starwerk (JUST) ",19 200,1,Industrial,D,380 000
+HydroJet," Juno Starwerk (JUST) ",52 750,2,Industrial,D,7 600 000
+Hydropulse," Juno Starwerk (JUST) ",156 500,3,Industrial,D,15 200 000
+Ice-Flush," Juno Starwerk (JUST) ",213 150,3,Industrial,B,16 800 000
+IceBox," Tyler Design & Tech (TYDT) ",28 650,2,Stealth,B,3 000 000
+IceDive," ACOM (ACOM) ",42 400,2,Competition,C,4 640 000
+IcePlunge," ACOM (ACOM) ",15 800,1,Competition,C,232 000
+Kelvid," Wen/Cassel Propulsion (WCPR) ",6 300,0,Civilian,B,100 000
+Kragen," Wen/Cassel Propulsion (WCPR) ",,3,Civilian,A,8 160 000
+Mercury," Aegis Dynamics (AEGS) ",122 500,3,Military,C,10 400 000
+NightFall," Tyler Design & Tech (TYDT) ",32 600,2,Stealth,A,3 400 000
+Permafrost," Aegis Dynamics (AEGS) ",49 650,2,Military,B,5 600 000
+Polar," Aegis Dynamics (AEGS) ",17 550,1,Military,B,280 000
+QuikCool," ACOM (ACOM) ",15 750,1,Competition,D,228 000
+RapidCool," ACOM (ACOM) ",42 300,2,Competition,D,4 560 000
+Serac," Wen/Cassel Propulsion (WCPR) ",,4,Civilian,A,16 000 000
+SnowBlind," Tyler Design & Tech (TYDT) ",12 850,1,Stealth,A,170 000
+Snowfall," Juno Starwerk (JUST) ",,2,Industrial,B,8 400 000
+Snowpack," Juno Starwerk (JUST) ",82 900,2,Industrial,A,8 800 000
+Taiga," Wen/Cassel Propulsion (WCPR) ",37 700,2,Civilian,B,3 920 000
+Tempest," Aegis Dynamics (AEGS) ",130 900,3,Military,B,11 200 000
+Tepilo," Wen/Cassel Propulsion (WCPR) ",6 300,0,Civilian,A,100 000
+ThermalCore," Juno Starwerk (JUST) ",176 300,3,Industrial,C,16 000 000
+Thermax," Juno Starwerk (JUST) ",20 500,1,Industrial,C,400 000
+Tundra," Aegis Dynamics (AEGS) ",15 750,1,Military,D,240 000
+Ultra-Flow," Juno Starwerk (JUST) ",27 550,1,Industrial,A,440 000
+VaporBlock," Tyler Design & Tech (TYDT) ",11 950,1,Stealth,B,150 000
+WhiteOut," Lightning Power Ltd. (LPLT) ",36 400,2,Civilian,D,3 800 000
+Winter-Star," J-Span (JSPN) ",14 200,1,Civilian,D,194 000
+Winter-Star EX," J-Span (JSPN) ",37 500,2,Civilian,D,3 880 000
+Winter-Star SL," J-Span (JSPN) ",6 300,0,Civilian,D,100 000
+Winter-Star XL," J-Span (JSPN) ",105 250,3,Civilian,D,7 760 000
+ZeroRush," ACOM (ACOM) ",16 150,1,Competition,B,238 000

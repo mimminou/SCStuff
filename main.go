@@ -6,9 +6,9 @@ import (
 
 func main() {
 	web.GetShips()
-	// web.GetShipGuns()
-	// web.GetShields()
-	// web.GetQDs()
-	// web.GetPowerPlants()
-	// web.GetCoolers()
+	web.GetShipGuns()
+	web.GetShields()
+	web.GetQDs()
+	web.GetPowerPlants()
+	web.GetCoolers()
 }

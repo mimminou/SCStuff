@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"github.com/PuerkitoBio/goquery"
 	"github.com/gocolly/colly"
+	"github.com/mimminou/SCItems/core/csv"
 	"net/http"
 	"os"
 )
@@ -80,6 +81,7 @@ func getUniversalInformation(selection *goquery.Selection) purchasableItem {
 
 func GetShips() {
 	file := "file://" + cwd + "/resources/ships/ships.html"
+
 	collector.OnHTML("tbody", func(h *colly.HTMLElement) {
 		rows := h.DOM.Find("tr")
 		rows.Each(func(i int, s *goquery.Selection) {
@@ -111,10 +113,12 @@ func GetShips() {
 			ships = append(ships, currentItem)
 		})
 
-		//TODO : Need to write the ships struct to CSV instead of printing
+		data := [][]string{}
 		for _, s := range ships {
 			fmt.Println(s.name + " | " + s.manufacturer + " | " + s.career + " | " + s.role + " | " + s.crewSize + " | " + s.cargoGrid + " | " + s.qtFuel + " | " + s.basePrice)
+			data = append(data, []string{s.name, s.manufacturer, s.basePrice, s.role, s.career, s.crewSize, s.cargoGrid, s.qtFuel})
 		}
+		csv.WriteCSV("ships", []string{"name", "manufacturer", "basePrice", "role", "career", "crewSize", "cargoGrid", "qtFuel"}, data)
 	})
 
 	//get visit the URL
@@ -165,10 +169,16 @@ func GetShipGuns() {
 			shipGuns = append(shipGuns, currentItem)
 		})
 
-		//TODO : Need to write the ships struct to CSV instead of printing
+		data := [][]string{}
 		for _, s := range shipGuns {
+			data = append(data, []string{s.name, s.manufacturer, s.basePrice, s.size, s.gunType, s.dmg, s.alpha, s.fireRate, s.fireRange, s.projectileSpeed})
 			fmt.Println(s.name + " | " + s.manufacturer + " | " + s.gunType + " | " + s.size + " | " + s.basePrice)
 		}
+		csvErr := csv.WriteCSV("shipGuns", []string{"name", "manufacturer", "basePrice", "size", "gunType", "dmg", "alpha", "fireRate", "fireRange", "projectileSpeed"}, data)
+		if csvErr != nil {
+			fmt.Println(csvErr)
+		}
+
 	})
 
 	//get visit the URL
@@ -211,9 +221,14 @@ func GetQDs() {
 			qds = append(qds, currentItem)
 		})
 
-		//TODO : Need to write the ships struct to CSV instead of printing
+		data := [][]string{}
 		for _, s := range qds {
 			fmt.Println(s.name + " | " + s.manufacturer + " | " + s.grade + " | " + s.size + " | " + s.basePrice)
+			data = append(data, []string{s.name, s.manufacturer, s.basePrice, s.size, s.class, s.grade, s.maxSpeedKms, s.spoolUpTime})
+		}
+		csvErr := csv.WriteCSV("qds", []string{"name", "manufacturer", "basePrice", "size", "class", "grade", "maxSpeedKms", "spoolUpTime"}, data)
+		if csvErr != nil {
+			fmt.Println(csvErr)
 		}
 	})
 
@@ -257,9 +272,14 @@ func GetShields() {
 			shields = append(shields, currentItem)
 		})
 
-		//TODO : Need to write the ships struct to CSV instead of printing
+		data := [][]string{}
 		for _, s := range shields {
 			fmt.Println(s.name + " | " + s.manufacturer + " | " + s.grade + " | " + s.size + " | " + s.basePrice)
+			data = append(data, []string{s.name, s.manufacturer, s.basePrice, s.size, s.class, s.grade, s.hp, s.regenRate})
+		}
+		csvErr := csv.WriteCSV("shields", []string{"name", "manufacturer", "basePrice", "size", "class", "grade", "hp", "regenRate"}, data)
+		if csvErr != nil {
+			fmt.Println(csvErr)
 		}
 	})
 
@@ -304,9 +324,14 @@ func GetPowerPlants() {
 			powerplants = append(powerplants, currentItem)
 		})
 
-		//TODO : Need to write the ships struct to CSV instead of printing
+		data := [][]string{}
 		for _, s := range powerplants {
 			fmt.Println(s.name + " | " + s.manufacturer + " | " + s.grade + " | " + s.size + " | " + s.basePrice)
+			data = append(data, []string{s.name, s.manufacturer, s.basePrice, s.size, s.class, s.grade, s.power, s.drawRequestTime})
+		}
+		csvErr := csv.WriteCSV("powerplants", []string{"name", "manufacturer", "basePrice", "size", "class", "grade", "power", "drawRequestTime"}, data)
+		if csvErr != nil {
+			fmt.Println(csvErr)
 		}
 	})
 
@@ -346,9 +371,14 @@ func GetCoolers() {
 			coolers = append(coolers, currentItem)
 		})
 
-		//TODO : Need to write the ships struct to CSV instead of printing
+		data := [][]string{}
 		for _, s := range coolers {
 			fmt.Println(s.name + " | " + s.manufacturer + " | " + s.grade + " | " + s.size + " | " + s.basePrice)
+			data = append(data, []string{s.name, s.manufacturer, s.basePrice, s.size, s.class, s.grade, s.coolingRate})
+		}
+		csvErr := csv.WriteCSV("coolers", []string{"name", "manufacturer", "basePrice", "size", "class", "grade", "coolingRate"}, data)
+		if csvErr != nil {
+			fmt.Println(csvErr)
 		}
 	})
 
