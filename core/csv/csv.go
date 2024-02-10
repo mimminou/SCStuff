@@ -7,7 +7,6 @@ import (
 )
 
 func WriteCSV(fileName string, fieldNames []string, data [][]string) error {
-
 	cwd, cwdErr := os.Getwd()
 	if cwdErr != nil {
 		fmt.Println(cwdErr)
@@ -37,14 +36,16 @@ func WriteCSV(fileName string, fieldNames []string, data [][]string) error {
 	defer csvWriter.Flush()
 
 	//write header
-	csvErr := csvWriter.Write(fieldNames)
-	if csvErr != nil {
+	if csvErr := csvWriter.Write(fieldNames); csvErr != nil {
 		fmt.Println(csvErr)
 		return csvErr
 	}
 
 	for _, row := range data {
-		csvWriter.Write(row)
+		if err := csvWriter.Write(row); err != nil {
+			fmt.Println(err)
+			return err
+		}
 	}
 	return nil
 }

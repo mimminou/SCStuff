@@ -16,7 +16,6 @@ import (
 4 - repeat for all other submenus
 */
 
-var collector *colly.Collector
 var baseURL string = "https://www.erkul.games/live"
 var ships []ship
 var shipGuns []shipGun
@@ -35,26 +34,10 @@ func init() {
 		fmt.Println("can't get path to current working dir")
 		os.Exit(1)
 	}
-	collector = colly.NewCollector()
 	t = &http.Transport{}
 	t.RegisterProtocol("file", http.NewFileTransport(http.Dir("/")))
 	c = &http.Client{Transport: t}
 
-	//callbacks
-	collector.OnRequest(func(r *colly.Request) {
-		fmt.Println("requesting")
-	})
-
-	collector.OnResponse(func(r *colly.Response) {
-		fmt.Println("got response")
-	})
-
-	collector.OnError(func(r *colly.Response, err error) {
-		fmt.Println("error getting to the website")
-		fmt.Println("----------------------------")
-		fmt.Println(err)
-		fmt.Println("----------------------------")
-	})
 }
 
 func getUniversalInformation(selection *goquery.Selection) purchasableItem {
@@ -82,6 +65,7 @@ func getUniversalInformation(selection *goquery.Selection) purchasableItem {
 func GetShips() {
 	file := "file://" + cwd + "/resources/ships/ships.html"
 
+	collector := colly.NewCollector()
 	collector.OnHTML("tbody", func(h *colly.HTMLElement) {
 		rows := h.DOM.Find("tr")
 		rows.Each(func(i int, s *goquery.Selection) {
@@ -131,6 +115,7 @@ func GetShips() {
 
 func GetShipGuns() {
 	file := "file://" + cwd + "/resources/weapons/weapons.html"
+	collector := colly.NewCollector()
 	collector.OnHTML("tbody", func(h *colly.HTMLElement) {
 		rows := h.DOM.Find("tr")
 		rows.Each(func(i int, s *goquery.Selection) {
@@ -191,6 +176,7 @@ func GetShipGuns() {
 
 func GetQDs() {
 	file := "file://" + cwd + "/resources/qds/qds.html"
+	collector := colly.NewCollector()
 	collector.OnHTML("tbody", func(h *colly.HTMLElement) {
 		rows := h.DOM.Find("tr")
 		rows.Each(func(i int, s *goquery.Selection) {
@@ -242,6 +228,7 @@ func GetQDs() {
 
 func GetShields() {
 	file := "file://" + cwd + "/resources/shields/shields.html"
+	collector := colly.NewCollector()
 	collector.OnHTML("tbody", func(h *colly.HTMLElement) {
 		rows := h.DOM.Find("tr")
 		rows.Each(func(i int, s *goquery.Selection) {
@@ -294,6 +281,7 @@ func GetShields() {
 
 func GetPowerPlants() {
 	file := "file://" + cwd + "/resources/powerplants/powerplants.html"
+	collector := colly.NewCollector()
 	collector.OnHTML("tbody", func(h *colly.HTMLElement) {
 		rows := h.DOM.Find("tr")
 		rows.Each(func(i int, s *goquery.Selection) {
@@ -345,6 +333,7 @@ func GetPowerPlants() {
 
 func GetCoolers() {
 	file := "file://" + cwd + "/resources/coolers/coolers.html"
+	collector := colly.NewCollector()
 	collector.OnHTML("tbody", func(h *colly.HTMLElement) {
 		rows := h.DOM.Find("tr")
 		rows.Each(func(i int, s *goquery.Selection) {
